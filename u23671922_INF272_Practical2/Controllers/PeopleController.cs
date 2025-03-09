@@ -26,7 +26,7 @@ namespace u23671922_INF272_Practical2.Controllers
                     Name = "Tshami",
                     Surname = "Mongwe",
                     Email_Address = "u23671922@tuks.co.za",
-                   myLink = " ~/HTML/Person01.html"
+                   myLink = "~/HTML/Person01.html"
                 },
                 new Person()
                 {
@@ -34,7 +34,7 @@ namespace u23671922_INF272_Practical2.Controllers
                     Name = "Natasha",
                     Surname = "Zulu",
                     Email_Address = "u24622915@tuks.co.za",
-                   myLink = " ~/HTML/Person02.html"
+                   myLink = "~/HTML/Person02.html"
                 },
                 new Person()
                 {
@@ -42,7 +42,7 @@ namespace u23671922_INF272_Practical2.Controllers
                     Name = "Pride",
                     Surname = "Ndlovu",
                     Email_Address = "u21671934@tuks.co.za",
-                   myLink = " ~/HTML/Person03.html"
+                   myLink = "~/HTML/Person03.html"
                 },
                 new Person()
                 {
@@ -50,7 +50,7 @@ namespace u23671922_INF272_Practical2.Controllers
                     Name = "Tshiamo",
                     Surname = "Mokwena",
                     Email_Address = "u19687297@tuks.co.za",
-                   myLink = " ~/HTML/Person04.html"
+                   myLink = "~/HTML/Person04.html"
                 },
                 new Person()
                 {
@@ -58,7 +58,7 @@ namespace u23671922_INF272_Practical2.Controllers
                     Name = "Ayanda",
                     Surname = "Zikode",
                     Email_Address = "u20651888@tuks.co.za",
-                   myLink = " ~/HTML/Person05.html"
+                   myLink = "~/HTML/Person05.html"
                 },
 
             };
