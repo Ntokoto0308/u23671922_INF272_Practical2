@@ -163,7 +163,7 @@
     <Content Include="HTML\Images\antman-and-the-wasp-marvel-4.webp" />
     <Content Include="HTML\Images\black-widow-1.webp" />
     <Content Include="HTML\Images\Don-cheadle-as-rhodey-Cropped.webp" />
-    <Content Include="HTML\Images\hawkeye.webp" />
+    <None Include="HTML\Images\hawkeye.webp" />
     <Content Include="HTML\Images\peter-parker-Cropped.webp" />
     <Content Include="HTML\Images\steve-rogers.webp" />
     <Content Include="HTML\Images\The-Incredible-Hulk.webp" />
