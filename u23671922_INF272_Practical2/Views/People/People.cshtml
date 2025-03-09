@@ -6,9 +6,7 @@
 
 <h2>List of People</h2>
 
-<p>
-    @Html.ActionLink("Create New", "Create")
-</p>
+
 <table class="table">
     <tr>
         <th>
@@ -44,7 +42,7 @@
             @Html.DisplayFor(modelItem => item.Email_Address)
         </td>
         <td>
-            @Html.DisplayFor(modelItem => item.myLink)
+          <a href="@Url.Content(item.myLink)">LINK</a>
         </td>
         
     </tr>
