@@ -4,7 +4,7 @@
     ViewBag.Title = "People";
 }
 
-<h2>People</h2>
+<h2>List of People</h2>
 
 <p>
     @Html.ActionLink("Create New", "Create")
@@ -46,11 +46,7 @@
         <td>
             @Html.DisplayFor(modelItem => item.myLink)
         </td>
-        <td>
-            @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
-            @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
-            @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
-        </td>
+        
     </tr>
 }
 
