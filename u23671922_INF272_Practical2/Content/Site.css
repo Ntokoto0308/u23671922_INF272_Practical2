@@ -22,3 +22,13 @@ textarea {
 body {
     background-Color: #C2FFC7;
 }
+.Main-Content {
+    background-color: #E0FBE2;
+    padding: 40px 20px 40px 20px;
+}
+.navigation-bar{
+    display:flex;
+    background-color: rgba(0.0.0.0.7);
+    color:white;
+    padding: 10px;
+}
