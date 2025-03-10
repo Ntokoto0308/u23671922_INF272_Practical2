@@ -26,6 +26,7 @@ body {
     background-color: #D3F1DF;
     padding: 40px 20px 40px 20px;
     border:20px;
+    border-spacing:10px;
 }
 .navigation-bar{
     display:flex;
@@ -55,11 +56,12 @@ body>div{
 .active-link {
     background-color:green;
 }
-.Main-Content .pictures-level{
+.Main-Content .pictures-level, .second-level{
     border: solid green 3px;
     background-color: white;
     padding:20px;
 }
+
 .pictures-level img{
     float:left;
 }
@@ -103,4 +105,10 @@ th {
 .second-level img:hover {
     -webkit-transform: scaleX(-1) !important;
     transform: scaleX(-1) !important;
+}
+.pictures-level, .second-level {
+    border: solid green 3px;
+    background-color: white;
+    padding: 20px;
+    margin-bottom: 20px;
 }
