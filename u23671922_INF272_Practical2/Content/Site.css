@@ -20,11 +20,12 @@ textarea {
 }
 
 body {
-    background-Color: #C2FFC7;
+    background-Color: #85A98F;
 }
 .Main-Content {
-    background-color: #6E8E59;
+    background-color: #D3F1DF;
     padding: 40px 20px 40px 20px;
+    border:20px;
 }
 .navigation-bar{
     display:flex;
@@ -70,4 +71,27 @@ body>div{
     text-decoration: none;
     border-radius: 5px;
     text-align: center;
+}
+
+.pictures-level img, .pictures-level p{
+    height:200px;
+}
+.second-level img{
+    
+}
+table {
+    width: 50%;
+    border-collapse: collapse;
+    margin: 20px auto;
+    text-align: left;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 8px;
+}
+
+th {
+    text-align: center;
+    font-weight: bold;
 }
