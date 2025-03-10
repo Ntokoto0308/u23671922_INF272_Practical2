@@ -95,3 +95,12 @@ th {
     text-align: center;
     font-weight: bold;
 }
+.pictures-level img:hover {
+    -webkit-transform: scaleX(-1) !important;
+    transform: scaleX(-1) !important;
+}
+
+.second-level img:hover {
+    -webkit-transform: scaleX(-1) !important;
+    transform: scaleX(-1) !important;
+}
